@@ -1,0 +1,5 @@
+#!/usr/bin/python
+
+print("*" * 30)
+print("Hey I'm from Git pre-commit hook!")
+print("*" * 30)
