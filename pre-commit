@@ -1,0 +1,3 @@
+#!/usr/bin/python
+
+print("Hey I'm from Git pre-commit hook!")
